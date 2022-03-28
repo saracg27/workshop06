@@ -59,6 +59,9 @@ lapply(list.of.packages, require, character.only = TRUE, quietly = TRUE)
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Site&message=r.qcbs.ca&color=A3BE8C)](https://r.qcbs.ca/fr/workshops/r-workshop-06/)
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=06&color=B48EAD&logo=github)](https://github.com/QCBSRworkshops/workshop06) 
 
+??? 
+Note:exemple 1
+
 ---
 
 <p style="font-size:75%">
